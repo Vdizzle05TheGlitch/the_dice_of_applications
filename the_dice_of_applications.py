@@ -2,10 +2,15 @@ import random2
 import time
 import subprocess
 
+# The Dice Of Applications
+# © 2024 Dizzle Incorporated.
+
+# Programmed by Vdizzle05 The Glitch
+
 # List of applications with their respective chances (the smaller the number, the higher the chance)
 applications_with_chances = [
-    ("E:\SteamLibrary\steamapps\common\Balatro\Balatro.exe", 50),   # 1/50 chance
-    ("E:\SteamLibrary\steamapps\common\DuckTales Remastered\executable\DuckTales.exe", 500), # 1/500 chance
+    ("c:\Program Files (x86)\Steam\steamapps\common\Balatro\Balatro.exe", 50),   # 1/50 chance
+    ("c:\Program Files (x86)\Steam\steamapps\common\Swords & Souls Neverseen\Swords & Souls Neverseen.exe", 500), # 1/500 chance
     # Add more applications with their chances as needed
 ]
 
