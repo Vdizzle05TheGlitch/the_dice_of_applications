@@ -19,9 +19,9 @@ Every second, an imaginary dice will be rolled for each application, all with se
 If the roll is successful, the application will open. If the roll is unsucessfull, nothing will happen.
 
 
-Explaining ("c:\Program Files (x86)\Steam\steamapps\common\Balatro\Balatro.exe", 50)
+Explaining ("c:\Program Files (x86)\Folder/Folder/Application", 50)
 
-The directory ("c:\Program Files (x86)\Steam\steamapps\common\Balatro\Balatro.exe") is where your application is located.
+The directory ("c:\Program Files (x86)Folder/Folder/Application") is where your application is located.
 The number ("50") After the directory is your chance, this means that every second this code is running, it has a 1/50 chance to open said application.
 
 
