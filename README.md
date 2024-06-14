@@ -5,11 +5,17 @@ Resources needed: Visual Studio Code, Python, Python Debugger, Pip, Random2, TIM
 OS Tested on: Windows 11, Windows 10. Code is meant for Windows.
 
 How to get Visual Studio Code: https://code.visualstudio.com/download
+
 How to get Python: https://www.python.org/downloads/ (Or an extension inside of Visual Studio Code)
+
 How to get Python Debugger: https://marketplace.visualstudio.com/items?itemName=ms-python.debugpy (Or an extension inside of Visual Studio Code)
+
 How to get Pip: https://pip.pypa.io/en/stable/installation/
+
 How to get Random2: pip install random2 (Inside of Command Prompt)
+
 How to get TIME-Python: pip install time-python (Inside of Command Prompt)
+
 
 (Subprocess is built into Windows, you don't need to worry about it)
 
