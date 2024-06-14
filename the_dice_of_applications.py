@@ -9,8 +9,8 @@ import subprocess
 
 # List of applications with their respective chances (the smaller the number, the higher the chance)
 applications_with_chances = [
-    ("c:\Program Files (x86)\Steam\steamapps\common\Balatro\Balatro.exe", 50),   # 1/50 chance
-    ("c:\Program Files (x86)\Steam\steamapps\common\Swords & Souls Neverseen\Swords & Souls Neverseen.exe", 500), # 1/500 chance
+    ("c:\Program Files (x86)\Folder/Folder/Application", 50),   # 1/50 chance
+    ("c:\Program Files (x86)\Folder/Folder/Application", 500), # 1/500 chance
     # Add more applications with their chances as needed
 ]
 
