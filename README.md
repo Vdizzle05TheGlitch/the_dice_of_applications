@@ -2,8 +2,7 @@ The Dice Of Applications | Instructions
 
 Resources needed: Visual Studio Code, Python, Python Debugger, Pip, Random2, TIME-python
 
-OS Tested on: Windows 11, Windows 10
-Code is meant for Windows.
+OS Tested on: Windows 11, Windows 10. Code is meant for Windows.
 
 How to get Visual Studio Code: https://code.visualstudio.com/download
 How to get Python: https://www.python.org/downloads/ (Or an extension inside of Visual Studio Code)
